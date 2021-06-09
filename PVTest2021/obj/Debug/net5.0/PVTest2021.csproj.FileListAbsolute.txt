@@ -1,0 +1,17 @@
+D:\Prachi\Workspace\PV_SoftwareEngTest_2021\PVTest2021\bin\Debug\net5.0\PVTest2021.exe
+D:\Prachi\Workspace\PV_SoftwareEngTest_2021\PVTest2021\bin\Debug\net5.0\data\testfile.txt
+D:\Prachi\Workspace\PV_SoftwareEngTest_2021\PVTest2021\bin\Debug\net5.0\PVTest2021.deps.json
+D:\Prachi\Workspace\PV_SoftwareEngTest_2021\PVTest2021\bin\Debug\net5.0\PVTest2021.runtimeconfig.json
+D:\Prachi\Workspace\PV_SoftwareEngTest_2021\PVTest2021\bin\Debug\net5.0\PVTest2021.runtimeconfig.dev.json
+D:\Prachi\Workspace\PV_SoftwareEngTest_2021\PVTest2021\bin\Debug\net5.0\PVTest2021.dll
+D:\Prachi\Workspace\PV_SoftwareEngTest_2021\PVTest2021\bin\Debug\net5.0\ref\PVTest2021.dll
+D:\Prachi\Workspace\PV_SoftwareEngTest_2021\PVTest2021\bin\Debug\net5.0\PVTest2021.pdb
+D:\Prachi\Workspace\PV_SoftwareEngTest_2021\PVTest2021\obj\Debug\net5.0\PVTest2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prachi\Workspace\PV_SoftwareEngTest_2021\PVTest2021\obj\Debug\net5.0\PVTest2021.AssemblyInfoInputs.cache
+D:\Prachi\Workspace\PV_SoftwareEngTest_2021\PVTest2021\obj\Debug\net5.0\PVTest2021.AssemblyInfo.cs
+D:\Prachi\Workspace\PV_SoftwareEngTest_2021\PVTest2021\obj\Debug\net5.0\PVTest2021.csproj.CoreCompileInputs.cache
+D:\Prachi\Workspace\PV_SoftwareEngTest_2021\PVTest2021\obj\Debug\net5.0\PVTest2021.dll
+D:\Prachi\Workspace\PV_SoftwareEngTest_2021\PVTest2021\obj\Debug\net5.0\ref\PVTest2021.dll
+D:\Prachi\Workspace\PV_SoftwareEngTest_2021\PVTest2021\obj\Debug\net5.0\PVTest2021.pdb
+D:\Prachi\Workspace\PV_SoftwareEngTest_2021\PVTest2021\obj\Debug\net5.0\PVTest2021.genruntimeconfig.cache
+D:\Prachi\Workspace\PV_SoftwareEngTest_2021\PVTest2021\obj\Debug\net5.0\PVTest2021.csproj.AssemblyReference.cache
